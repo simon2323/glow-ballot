@@ -854,3 +854,8 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+/* Additional */
+
+#ballot-retry {
+    display: none;
+}
